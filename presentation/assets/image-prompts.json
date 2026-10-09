@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in image_gen",
+  "images": [
+    {
+      "file": "custom-gpt-cul-de-sac.png",
+      "prompt": "Use case: productivity-visual. Create a polished editorial illustration for one half of an in-person presentation slide. Primary subject: a cul-de-sac, a residential road ending in a clearly visible circular turnaround with no onward exit. View from an elevated three-quarter angle so its dead-end shape is immediately recognizable. A few simple houses and trees around it. Calm warm cream background #f5f2e9, deep forest teal and muted ochre accents, clean hand-painted shapes with subtle paper texture, generous whitespace, high legibility when projected. Landscape composition, no words, letters, logos, signs, labels or watermark. The illustration is a metaphor for a Custom GPT as a destination you enter."
+    },
+    {
+      "file": "plugin-backpack-traveler.png",
+      "prompt": "Use case: productivity-visual. Create a polished editorial illustration for one half of an in-person presentation slide. Primary subject: an adult person walking confidently forward along an open path, viewed from behind in three-quarter view, visibly wearing a substantial forest-green hiking backpack with ochre straps. A trail-guide card and compact two-way radio visible in the backpack side pockets. Show the backpack clearly carried on the person's back, traveling with them. Path continues into the distance with small subtle branches suggesting different destinations. Calm warm cream background #f5f2e9, deep forest teal and muted ochre accents, clean hand-painted shapes with subtle paper texture, generous whitespace, high legibility when projected. Landscape composition, no words, letters, logos, labels or watermark. This is a metaphor for plugins accompanying someone wherever they go."
+    }
+  ]
+}

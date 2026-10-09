@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-09T00:00:00-04:00",
+  "title": "Design System: Cedarville presentation",
+  "extensions": {
+    "breakpoints": [{"name": "stacked", "value": "800px"}],
+    "shadows": [],
+    "motion": [],
+    "typographyMeta": {
+      "display": {"displayName": "Editorial headings", "purpose": "Slide titles and visual explanation headings"},
+      "body": {"displayName": "Presentation text", "purpose": "Projected body copy and interactions"}
+    },
+    "narrative": {
+      "northStar": "Open slides with Cedarville colors and clear visual explanations",
+      "rules": ["Let the heading name the topic", "Use space instead of containers", "Keep presenter controls quiet"]
+    }
+  }
+}

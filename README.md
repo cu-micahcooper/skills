@@ -2,13 +2,13 @@
 
 A self-contained, interactive slide presentation for a non-technical, in-person audience.
 
-The 19-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, creation, sharing, and supported usage environments. Product guidance was checked on October 9, 2026.
+The 12-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, skill portability, stacking, and supported usage environments, with a live-demo placeholder for creation and sharing. Product guidance was checked on October 9, 2026.
 
 ## Presenting
 
-Open `presentation/chatgpt-plugins-skills.html` in a browser. No installation or internet connection is required for the slides and activities. Official documentation links require internet access.
+Present directly from **https://cu-micahcooper.github.io/skills/**, or open `presentation/chatgpt-plugins-skills.html` in a browser. No installation or internet connection is required for the slides and activities. Official documentation links require internet access.
 
-- Use the arrow keys or Previous and Next buttons to navigate.
+- Use Next or the right arrow to reveal the next idea, then advance. Previous or the left arrow reverses the builds.
 - Use the slide menu to jump to a topic.
 - Select **Presenter view** to open separate notes and navigation on your own screen.
 - Select **Full screen** or press **F** for projection.
@@ -22,3 +22,7 @@ The presenter controls the activities while the audience responds aloud or discu
 - `presentation/chatgpt-plugins-skills.html`: slides, embedded illustrations, interactions, speaker notes, and source links.
 
 The slides use concepts and illustrations adapted from the supplied `chatgpt-extensibility.html` field guide.
+
+The closing activity offers four starting points, followed by audience questions and resources. The cover and final slide carry custom QR codes to the live deck. Navigation controls are hidden on the final slide; the left arrow and presenter window remain available.
+
+GitHub Pages publishes the self-contained deck from `main` using `.github/workflows/pages.yml`.
