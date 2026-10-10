@@ -6,7 +6,7 @@ The 12-slide deck introduces plugins, skills, and apps with a backpack, guide, a
 
 ## Presenting
 
-Present directly from **https://cu-micahcooper.github.io/skills/**, or open `presentation/chatgpt-plugins-skills.html` in a browser. No installation or internet connection is required for the slides and activities. Official documentation links require internet access.
+Present directly from **https://cu-micahcooper.github.io/skills/**, or open `presentation/chatgpt-plugins-skills.html` in a browser. No installation is required. The University’s Minion Pro and Myriad Pro fonts load from Adobe Fonts; slides and activities also work offline with fallback fonts. Official documentation links require internet access.
 
 - Use Next or the right arrow to reveal the next idea, then advance. Previous or the left arrow reverses the builds.
 - Use the slide menu to jump to a topic.
@@ -26,3 +26,5 @@ The slides use concepts and illustrations adapted from the supplied `chatgpt-ext
 The closing activity offers four starting points, followed by audience questions and resources. The cover and final slide carry custom QR codes to the live deck. Navigation controls are hidden on the final slide; the left arrow and presenter window remain available.
 
 GitHub Pages publishes the self-contained deck from `main` using `.github/workflows/pages.yml`.
+
+The halftone backpack QR uses the image-dithering and protected module-center technique from [QRFrame’s Halftone preset](https://github.com/zhengkyl/qrframe/blob/main/presets/Halftone.js).

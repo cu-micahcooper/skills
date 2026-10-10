@@ -1,0 +1,19 @@
+{
+  "url": "https://cu-micahcooper.github.io/skills/",
+  "style": "halftone backpack",
+  "techniqueSource": "https://github.com/zhengkyl/qrframe/blob/main/presets/Halftone.js",
+  "method": "Floyd-Steinberg tonal image dithering at three subpixels per module, with one center subpixel restored from the encoded matrix and full protected function patterns",
+  "version": 5,
+  "errorCorrection": "H",
+  "quietZoneModules": 4,
+  "colors": [
+    "#003963",
+    "#ffffff"
+  ],
+  "verifiedRenderedWidths": [
+    185,
+    235,
+    245,
+    270
+  ]
+}
