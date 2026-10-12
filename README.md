@@ -23,7 +23,7 @@ The presenter controls the activities while the audience responds aloud or discu
 
 The slides use concepts and illustrations adapted from the supplied `chatgpt-extensibility.html` field guide.
 
-The closing activity offers four starting points, followed by audience questions and a closing QR slide. The cover and final slide carry custom QR codes to the live deck. Navigation controls are hidden on the final slide; the left arrow and presenter window remain available. Press **N** on the final slide to read the official guides. Full screen hides the header tools. Revealed content stays at full contrast for projection.
+After the demo, four outside projects provide examples to explore: Superpowers, Impeccable, Obsidian Skills, and Scientific Agent Skills. Audience questions and a closing QR slide follow. The cover and final slide carry custom QR codes to the live deck. Navigation controls are hidden on the final slide; the left arrow and presenter window remain available. Press **N** on the final slide to read the official guides. Full screen hides the header tools. Revealed content stays at full contrast for projection.
 
 GitHub Pages publishes the self-contained deck from `main` using `.github/workflows/pages.yml`.
 
