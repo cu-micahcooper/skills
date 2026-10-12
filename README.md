@@ -31,4 +31,4 @@ The halftone backpack QR uses the image-dithering and protected module-center te
 
 The capabilities and scripts slides use practical examples, including processing exam results with a packaged script.
 
-The retirement timeline uses the current English [OpenAI retirement FAQ](https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq), checked October 12, 2026. Migration target dates, the planned creation cutoff, standard retirement, and approved-deferral retirement are labeled separately. Four creation methods appear immediately before the demo.
+The retirement timeline uses the current English [OpenAI retirement FAQ](https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq), checked October 12, 2026. Migration target dates, the planned creation cutoff, and standard retirement are labeled separately. Four creation methods appear immediately before the demo.
