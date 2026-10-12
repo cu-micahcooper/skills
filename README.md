@@ -2,7 +2,7 @@
 
 A self-contained, interactive slide presentation for a non-technical, in-person audience.
 
-The 12-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, skill portability, stacking, and supported usage environments, with a live-demo placeholder for creation and sharing. Product guidance was checked on October 9, 2026.
+The 14-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, skill portability, stacking, and supported usage environments, with a live-demo placeholder for creation and sharing. Product guidance was checked on October 9, 2026.
 
 ## Presenting
 
@@ -28,3 +28,5 @@ The closing activity offers four starting points, followed by audience questions
 GitHub Pages publishes the self-contained deck from `main` using `.github/workflows/pages.yml`.
 
 The halftone backpack QR uses the image-dithering and protected module-center technique from [QRFrame’s Halftone preset](https://github.com/zhengkyl/qrframe/blob/main/presets/Halftone.js).
+
+The capabilities and scripts slides use practical examples, including processing exam results with a packaged script.
