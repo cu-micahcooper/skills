@@ -1,4 +1,4 @@
-# ChatGPT Plugins & Skills
+# Sounds Like a Skill Issue
 
 A self-contained, interactive slide presentation for a non-technical, in-person audience.
 
