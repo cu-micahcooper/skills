@@ -1,0 +1,31 @@
+{
+  "checked": "2026-10-12",
+  "source": "https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq",
+  "scope": "Published Enterprise milestones",
+  "milestones": [
+    {
+      "date": "Sept. 11, 2026",
+      "description": "Admin notice to help organizations prepare."
+    },
+    {
+      "date": "Sept. 22, 2026",
+      "description": "Target for the migration experience and user banner."
+    },
+    {
+      "date": "Oct. 1, 2026",
+      "description": "Target migration banner for workspaces already opted into delayed banners."
+    },
+    {
+      "date": "Oct. 26, 2026",
+      "description": "Planned end of new Custom GPT creation."
+    },
+    {
+      "date": "Dec. 11, 2026",
+      "description": "Standard retirement: Custom GPTs and their GPT pages become inaccessible."
+    },
+    {
+      "date": "Feb. 11, 2027",
+      "description": "Retirement for Enterprise workspaces with a qualified, approved deferral."
+    }
+  ]
+}

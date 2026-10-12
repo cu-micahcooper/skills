@@ -2,7 +2,7 @@
 
 A self-contained, interactive slide presentation for a non-technical, in-person audience.
 
-The 14-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, skill portability, stacking, and supported usage environments, with a live-demo placeholder for creation and sharing. Product guidance was checked on October 9, 2026.
+The 16-slide deck introduces plugins, skills, and apps with a backpack, guide, and radio analogy. It covers Custom GPT comparisons, skill portability, stacking, and supported usage environments, with a live-demo placeholder for creation and sharing. Product guidance was checked on October 9, 2026.
 
 ## Presenting
 
@@ -30,3 +30,5 @@ GitHub Pages publishes the self-contained deck from `main` using `.github/workfl
 The halftone backpack QR uses the image-dithering and protected module-center technique from [QRFrame’s Halftone preset](https://github.com/zhengkyl/qrframe/blob/main/presets/Halftone.js).
 
 The capabilities and scripts slides use practical examples, including processing exam results with a packaged script.
+
+The retirement timeline uses the current English [OpenAI retirement FAQ](https://help.openai.com/en/articles/20001519-custom-gpt-retirement-and-migration-faq), checked October 12, 2026. Migration target dates, the planned creation cutoff, standard retirement, and approved-deferral retirement are labeled separately. Four creation methods appear immediately before the demo.
